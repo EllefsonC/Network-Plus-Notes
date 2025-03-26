@@ -1,0 +1,1 @@
+This folder will contain basic to more advanced networking equipment descriptions and what they can be used for. This is a changing list as I learn more, and there are certainly very rudimentary items that are missing from this list. Enjoy!
