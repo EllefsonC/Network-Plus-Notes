@@ -1,0 +1,1 @@
+The TCP sliding mechanism, also known as the TCP sliding window is an amount of information that can be sent to another endpoint through TCP without an ACK taking place. This ensures that data is consistently sent across the network for the most efficient use of bandwidth.
